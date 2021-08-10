@@ -11,3 +11,5 @@ Day 4 article : https://www.kaggle.com/colinmorris/booleans-and-conditionals?utm
 Day 5 (List) : https://www.kaggle.com/colinmorris/lists?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-5
 
 Day 5 (Loops): https://www.kaggle.com/colinmorris/loops-and-list-comprehensions?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-5
+
+Day 6 article : https://www.kaggle.com/colinmorris/strings-and-dictionaries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-6
