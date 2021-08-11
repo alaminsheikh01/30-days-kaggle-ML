@@ -13,3 +13,5 @@ Day 5 (List) : https://www.kaggle.com/colinmorris/lists?utm_medium=email&utm_sou
 Day 5 (Loops): https://www.kaggle.com/colinmorris/loops-and-list-comprehensions?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-5
 
 Day 6 article : https://www.kaggle.com/colinmorris/strings-and-dictionaries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-6
+
+Day 7 article : https://www.kaggle.com/colinmorris/working-with-external-libraries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-7
