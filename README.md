@@ -1,5 +1,7 @@
 # 30-days-kaggle-ML
 
+## First week python basic
+
 Day 1 article : https://www.kaggle.com/alexisbcook/getting-started-with-kaggle?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-1
 
 Day 2 article : https://www.kaggle.com/colinmorris/hello-python?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-2
@@ -15,3 +17,8 @@ Day 5 (Loops): https://www.kaggle.com/colinmorris/loops-and-list-comprehensions?
 Day 6 article : https://www.kaggle.com/colinmorris/strings-and-dictionaries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-6
 
 Day 7 article : https://www.kaggle.com/colinmorris/working-with-external-libraries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-7
+
+
+## Second week Machine Learning basic
+
+Day 8 article : https://www.kaggle.com/dansbecker/how-models-work?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-8
